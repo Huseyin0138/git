@@ -3,3 +3,9 @@
     border:  8px solid black;
     justify-content: center;
 }
+body {
+    display: flex;
+    border: 8px solid black;
+    justify-content: center;
+    align-items: center;
+}
