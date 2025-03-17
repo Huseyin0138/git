@@ -1,11 +1,21 @@
-.bild_element {
-    display: flex;
-    border:  8px solid black;
-    justify-content: center;
-}
-body {
+.universum {
     display: flex;
     border: 8px solid black;
     justify-content: center;
-    align-items: center;
+    grid-area: 1 / 3/ 2/ 5;
+    
+}
+
+.arten_von_galaxien {
+    display: flex;
+    border: 8px solid black;
+    
+}
+
+body {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px ;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px;
+
+
 }
