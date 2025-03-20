@@ -102,3 +102,8 @@ body {
     display: flex;
     border: 8px solid black;
 }
+
+.Hauptbestandteile_list{
+    display: flex;
+    border: 9px solid black;
+}
