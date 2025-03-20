@@ -100,4 +100,5 @@ body {
 
 .HauptbestandteileMilschstraße{
     display: flex;
+    border: 8px solid black;
 }
