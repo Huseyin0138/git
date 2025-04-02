@@ -109,4 +109,5 @@ body {
 .Hauptbestandteile_list{
     display: flex;
     border: 8px solid black;
+	grid-area: 6/ 17/ 11 / 20;
 }
