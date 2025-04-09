@@ -1,10 +1,13 @@
 body {
+    max-width: 500px;
     display: grid;
-    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
-    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
-    color: black;
     
+    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
 }
+
+
+
 
 
 
@@ -109,5 +112,5 @@ body {
 .Hauptbestandteile_list{
     display: flex;
     border: 8px solid black;
-	grid-area: 6/ 17/ 11 / 20;
+	grid-area: 6/ 15/ 11 / 20;
 }
