@@ -1,9 +1,15 @@
 body {
     max-width: 500px;
     display: grid;
+<<<<<<< HEAD
     
     grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
     grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+=======
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    color: black;
+>>>>>>> c79e77c4866baa5c1b7f274da8fb2ef695bfbc19
 }
 
 
